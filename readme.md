@@ -13,3 +13,5 @@ colorChange: function(e) {
     var color=e.detail.color; //returns a string 'rgba(x,y,z,a)'
 }
 ```
+
+![color-picker](http://evan.cool/images/colorpicker.png "color-picker")
