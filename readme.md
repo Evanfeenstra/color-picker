@@ -1,7 +1,7 @@
 # color-picker
 
 A color-picker custom element for Polymer 1.0.
-See it in action at https://freehand.firebaseapp.com/ 
+See it in action at https://freehand.online 
 
 Color-picker fires a "pick" event whenever the selected color changes.
 
